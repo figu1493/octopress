@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://figu1493.github.com/octopress/sitemap.xml 
+Sitemap: http://john-figueiredo-blog.herokuapp.com/sitemap.xml 
