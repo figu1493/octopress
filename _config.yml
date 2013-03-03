@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://figu1493.github.com/octopress
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://john-figueiredo-blog.herokuapp.com
+title: John Figueiredo's Hacker Blog
+subtitle: This is a documentation of my path towards being a Full Stack Software Developer.
+author: John Figueiredo
 simple_search: http://google.com/search
 description:
 
