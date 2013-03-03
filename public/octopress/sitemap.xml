@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://john-figueiredo-blog.herokuapp.com/blog/2013/03/02/First-Post/</loc>
+        <loc>http://noconformity-blog.herokuapp.com/blog/2013/03/02/First-Post/</loc>
         <lastmod>2013-03-02T22:18:35-08:00</lastmod>
     </url>
     <url>
-        <loc>http://john-figueiredo-blog.herokuapp.com/blog/archives/</loc>
-        <lastmod>2013-03-02T22:18:35-08:00</lastmod>
+        <loc>http://noconformity-blog.herokuapp.com/blog/archives/</loc>
+        <lastmod>2013-03-02T22:59:20-08:00</lastmod>
     </url>
     <url>
-        <loc>http://john-figueiredo-blog.herokuapp.com/</loc>
-        <lastmod>2013-03-02T22:18:35-08:00</lastmod>
+        <loc>http://noconformity-blog.herokuapp.com/</loc>
+        <lastmod>2013-03-02T22:59:20-08:00</lastmod>
     </url>
     <url>
-        <loc>http://john-figueiredo-blog.herokuapp.com/robots.txt</loc>
-        <lastmod>2013-03-02T20:42:58-08:00</lastmod>
+        <loc>http://noconformity-blog.herokuapp.com/robots.txt</loc>
+        <lastmod>2013-03-02T22:59:20-08:00</lastmod>
     </url>
 </urlset>

@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://john-figueiredo-blog.herokuapp.com
+url: http://noconformity-blog.herokuapp.com #http://0.0.0.0:4000 : Local
 title: John Figueiredo's Hacker Blog
-subtitle: This is a documentation of my path towards being a Full Stack Software Developer.
+subtitle: This is a documentation of my path towards being a Full Stack Software Developer
 author: John Figueiredo
-simple_search: http://google.com/search
-description:
+# simple_search: http://google.com/search
+# description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
